@@ -1,43 +1,43 @@
 /*Font definition*/
 @font-face{
     font-family: IRANSans-Bold-web;
-    src: url(IRANSans-Bold-web.woff);
+    src: url(font/IRANSans-Bold-web.woff);
 }
 @font-face{
     font-family: IRANSans-Light-web;
-    src: url(IRANSans-Light-web.woff);
+    src: url(font/IRANSans-Light-web.woff);
 }
 @font-face{
     font-family: IRANSans-Medium-web;
-    src: url(IRANSans-Medium-web.woff);
+    src: url(font/IRANSans-Medium-web.woff);
 }
 @font-face{
     font-family: IRANSans-UltraLight-web;
-    src: url(IRANSans-UltraLight-web.woff);
+    src: url(font/IRANSans-UltraLight-web.woff);
 }
 @font-face{
     font-family: IRANSans-web;
-    src: url(IRANSans-web.woff);
+    src: url(font/IRANSans-web.woff);
 }
 @font-face{
     font-family: IRANSansWebFaNum_Bold;
-    src: url(IRANSansWebFaNum_Bold.woff);
+    src: url(font/IRANSansWebFaNum_Bold.woff);
 }
 @font-face{
     font-family: IRANSansWebFaNum_Light;
-    src: url(IRANSansWebFaNum_Light.woff);
+    src: url(font/IRANSansWebFaNum_Light.woff);
 }
 @font-face{
     font-family: IRANSansWebFaNum_Medium;
-    src: url(IRANSansWebFaNum_Medium.woff);
+    src: url(font/IRANSansWebFaNum_Medium.woff);
 }
 @font-face{
     font-family: IRANSansWebFaNum_UltraLight;
-    src: url(IRANSansWebFaNum_UltraLight.woff);
+    src: url(font/IRANSansWebFaNum_UltraLight.woff);
 }
 @font-face{
     font-family: IRANSansWebFaNum;
-    src: url(IRANSansWebFaNum.woff);
+    src: url(font/IRANSansWebFaNum.woff);
 }
 
 /*Font assign*/
@@ -106,7 +106,7 @@ h2{
 .header{
     grid-column: 1 / span 1;
     grid-row: 1 / span 1;
-    background-image: url("header.jpg");
+    background-image: url("pic/header.jpg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     display: flex;
