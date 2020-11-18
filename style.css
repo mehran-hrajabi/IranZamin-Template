@@ -812,15 +812,15 @@ input[type=text]{
     text-decoration: none;
 }
 .instagram {
-    background: #125688;
+    background: linear-gradient(90deg,#fd1d1d,#e1306c,#c13584,#833ab4,#5851db,#405de6);
     color: white;
 }
 .telegram{
-    background: #0088cc;
+    background: linear-gradient(90deg,#68ccf4, #0088cc);
     color: white;
 }
 .whatsapp{
-    background: #25d366;
+    background: linear-gradient(120deg,#6be981,#25d366);
     color: white;
 }
 .social-icons{
